@@ -72,9 +72,11 @@ registrationdate: { type: Date }}], | String |
 | password | String |
 | isverified | Boolean |
 
+
+
 <h2 align="left"> Use Cases: </h2>
 
-<h3 align="left">1. **Student Enrollment and Registration** </h3>
+1. **Student Enrollment and Registration** 
 - **Description:** Students are free to register and sign-up for the offered classes. Directors oversee the clearance system.
 - **Actors:** Students, Administrators
 - **Primary Flow:**
@@ -83,7 +85,7 @@ registrationdate: { type: Date }}], | String |
     3. Administrator consent to participate.
     4. Confirmation is sent to the student.
 
-<h3 align="left">2. **User Role Management**</h3>
+2. **User Role Management**
 - **Description:** assigns and oversees administrative, teacher, and student responsibilities. Main flow agents are managers.
 - **Actors:** Administrators
 - **Primary Flow:**
@@ -91,7 +93,7 @@ registrationdate: { type: Date }}], | String |
     2. Two roles change in line with changing duties.
     3. Role credentials define system access.
 
-<h3 align="left">3. **Course Management**</h3>
+3. **Course Management**
 - **Description:** Create, update, and manage course offerings and schedules.
 - **Actors:** Teachers, Administrators
 - **Primary Flow:**
@@ -99,7 +101,7 @@ registrationdate: { type: Date }}], | String |
     2. Lists courses together with their calendar.
     3. Updates or deletions depending on course necessity.
 
-<h3 align="left">4. **Student Profile Management**</h3>
+4. **Student Profile Management**
 - **Description:** Preserving comprehensive profiles of every student including personal information, academic records, and extracurricular activities, Student Profile Management Students, Administrators:
 - **Actors:** Students, Administrators
 - **Primary Flow:**

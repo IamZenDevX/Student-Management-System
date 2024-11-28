@@ -58,7 +58,8 @@ The platform will require a relational database to manage User and Course . Belo
 
 | **Field Name** | **Type** |
 | --- | --- |
-| course:[{course_id: {courseid_info: { type: String }},registrationdate: { type: Date }}], | String |
+| course:[{course_id: {
+courseid_info: { type: String }},registrationdate: { type: Date }}], | String |
 | firstname | String |
 | lastName | String |
 | email | Number |

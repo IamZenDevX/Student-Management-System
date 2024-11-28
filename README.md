@@ -76,7 +76,8 @@ registrationdate: { type: Date }}], | String |
 
 <h2 align="left"> Use Cases: </h2>
 
-1. **Student Enrollment and Registration** 
+1. **Student Enrollment and Registration**
+   
 - **Description:** Students are free to register and sign-up for the offered classes. Directors oversee the clearance system.
 - **Actors:** Students, Administrators
 - **Primary Flow:**
@@ -86,6 +87,7 @@ registrationdate: { type: Date }}], | String |
     4. Confirmation is sent to the student.
 
 2. **User Role Management**
+   
 - **Description:** assigns and oversees administrative, teacher, and student responsibilities. Main flow agents are managers.
 - **Actors:** Administrators
 - **Primary Flow:**
@@ -94,6 +96,7 @@ registrationdate: { type: Date }}], | String |
     3. Role credentials define system access.
 
 3. **Course Management**
+   
 - **Description:** Create, update, and manage course offerings and schedules.
 - **Actors:** Teachers, Administrators
 - **Primary Flow:**
@@ -102,6 +105,7 @@ registrationdate: { type: Date }}], | String |
     3. Updates or deletions depending on course necessity.
 
 4. **Student Profile Management**
+   
 - **Description:** Preserving comprehensive profiles of every student including personal information, academic records, and extracurricular activities, Student Profile Management Students, Administrators:
 - **Actors:** Students, Administrators
 - **Primary Flow:**
@@ -114,6 +118,7 @@ registrationdate: { type: Date }}], | String |
 <a href="https://www.zendevx.com/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7dd7220f-e83c-4490-9ac2-beab3bcf8c35" alt="ZenDevX" height="auto" width="auto" /></a>
 
 <h2 align="left">🐦 Connect With Me:</h2>
+
 <a href="https://www.linkedin.com/company/zendevx/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/9a6080ca-4265-43e5-8652-9454651970a9" alt="ZenDevX" height="50" width="50" /></a>
 <a href="https://www.youtube.com/@zendevx" target="blank"><img align="center" src="https://github.com/user-attachments/assets/1beefdd6-fa17-49c9-bde7-e8f30f539b96" alt="ZenDevX" height="50" width="50" /></a>
 <a href="https://x.com/IamZenDevX" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f1eeb865-3d23-407a-9a2b-d76b4e85c6dd" alt="ZenDevX" height="50" width="50" /></a>

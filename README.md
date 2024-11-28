@@ -84,7 +84,7 @@ registrationdate: { type: Date }}], | String |
     4. Confirmation is sent to the student.
 
 2. **User Role Management**
-- **Description:**assigns and oversees administrative, teacher, and student responsibilities. Main flow agents are managers.
+- **Description:** assigns and oversees administrative, teacher, and student responsibilities. Main flow agents are managers.
 - **Actors:** Administrators
 - **Primary Flow:**
     1. One establishes roles right out of user registration in administration.

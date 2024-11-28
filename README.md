@@ -76,7 +76,7 @@ registrationdate: { type: Date }}], | String |
 
 <h2 align="left"> Use Cases: </h2>
 
-1. **Student Enrollment and Registration:**
+<h3 align="left">1. **Student Enrollment and Registration:**</h3>
    
 - **Description:** Students are free to register and sign-up for the offered classes. Directors oversee the clearance system.
 - **Actors:** Students, Administrators
@@ -86,7 +86,7 @@ registrationdate: { type: Date }}], | String |
     3. Administrator consent to participate.
     4. Confirmation is sent to the student.
 
-2. **User Role Management:**
+<h3 align="left">2. **User Role Management:**</h3>
    
 - **Description:** assigns and oversees administrative, teacher, and student responsibilities. Main flow agents are managers.
 - **Actors:** Administrators

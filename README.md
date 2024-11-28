@@ -54,11 +54,16 @@ The platform will require a relational database to manage User and Course . Belo
 | praticeHours | Number |
 | credits | Number |
 
-### b) User
+### b)  User
 
 | **Field Name** | **Type** |
 | --- | --- |
-| course:[{course_id: {courseid_info: { type: String }},registrationdate: { type: Date }}], | String |
+| course:[{
+
+course_id: {
+courseid_info: { type: String }},
+
+registrationdate: { type: Date }}], | String |
 | firstname | String |
 | lastName | String |
 | email | Number |
@@ -66,6 +71,8 @@ The platform will require a relational database to manage User and Course . Belo
 | isadmin | Boolean |
 | password | String |
 | isverified | Boolean |
+
+
 
 
 

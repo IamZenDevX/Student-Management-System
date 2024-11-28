@@ -54,7 +54,7 @@ The platform will require a relational database to manage User and Course . Belo
 | praticeHours | Number |
 | credits | Number |
 
-### b)  User
+### b) User
 
 | **Field Name** | **Type** |
 | --- | --- |

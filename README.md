@@ -6,9 +6,12 @@ A student management system is one crucial tool meant to simplify administrative
 <h2 align="left">Key Features:</h2>
 
 1. **User Management:**
+   
     - logs data of many users, including professors, administrators, and students.
     - manages user degrees of access and roles to increase organization and security.
+      
 2. **Course Management:**
+   
     - Simplifies in course management planning, updating, and development.
     - assigns courses to students and monitors their progress.
 
@@ -77,6 +80,7 @@ registrationdate: { type: Date }}], | String |
 <h2 align="left"> Use Cases: </h2>
 
 <h3 align="left">1. Student Enrollment and Registration:</h3>
+
 - **Description:** Students are free to register and sign-up for the offered classes. Directors oversee the clearance system.
 - **Actors:** Students, Administrators
 - **Primary Flow:**
@@ -86,6 +90,7 @@ registrationdate: { type: Date }}], | String |
     4. Confirmation is sent to the student.
 
 <h3 align="left">2. User Role Management:</h3>
+
 - **Description:** assigns and oversees administrative, teacher, and student responsibilities. Main flow agents are managers.
 - **Actors:** Administrators
 - **Primary Flow:**

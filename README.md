@@ -83,7 +83,7 @@ registrationdate: { type: Date }}], | String |
     3. Administrator consent to participate.
     4. Confirmation is sent to the student.
 
-1. **User Role Management**
+2. **User Role Management**
 - **Description:**assigns and oversees administrative, teacher, and student responsibilities. Main flow agents are managers.
 - **Actors:** Administrators
 - **Primary Flow:**
@@ -91,7 +91,7 @@ registrationdate: { type: Date }}], | String |
     2. Two roles change in line with changing duties.
     3. Role credentials define system access.
 
-1. **Course Management**
+3. **Course Management**
 - **Description:** Create, update, and manage course offerings and schedules.
 - **Actors:** Teachers, Administrators
 - **Primary Flow:**
@@ -99,7 +99,7 @@ registrationdate: { type: Date }}], | String |
     2. Lists courses together with their calendar.
     3. Updates or deletions depending on course necessity.
 
-1. **Student Profile Management**
+4. **Student Profile Management**
 - **Description:** Preserving comprehensive profiles of every student including personal information, academic records, and extracurricular activities, Student Profile Management Students, Administrators:
 - **Actors:** Students, Administrators
 - **Primary Flow:**
